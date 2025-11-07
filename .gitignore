@@ -364,5 +364,7 @@ FodyWeavers.xsd
 
 # Environment file with secrets
 .env
-/Plais
-/Plais/wwwroot/uploads/executive-members/7fd3f3fe-b239-4d02-9c99-a393dd3ca0a3.jpg
+
+# wwwroot
+
+/Plais/wwwroot/
